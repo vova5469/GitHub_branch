@@ -1,0 +1,12 @@
+1)Summary
+2)Project
+3)Component[A[A[[B[B[B[C[C
+4)Version
+5)Severity
+6)Priority
+7)Status
+8)Author
+9)Steps to Reproduce
+10)Result
+11)Expected Result
+12)Attachment
